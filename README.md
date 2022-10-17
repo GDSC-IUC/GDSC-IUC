@@ -1,6 +1,6 @@
-- 👋 Hi,We're @GDSC-IUC
+# 👋 Hi,We're @GDSC-IUC
 
-A GDSC Community Based in IUC
+###A GDSC Community Based in IUC
 
  🌱We're currently learning FIREBASE
 - 💞️ I’m looking to collaborate on opensource project that solve community problems
